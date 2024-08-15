@@ -1,0 +1,85 @@
+{
+    "ResultCode": "0",
+    "ResultMessage": "OK",
+    "Data": {
+        "IsFree": false,
+        "IsImmediateRealEstateHolderExists": false,
+        "ThirdPartyRightsRemainAfterSale": false,
+        "BurdensThatCustomerAssumes": null,
+        "Id": 89818,
+        "AuctionNumber": "Н89818",
+        "StartDate": "2024-04-12T07:00:00Z",
+        "EndDate": "2024-04-12T11:00:00Z",
+        "PublicationDate": "2024-03-14T23:00:00Z",
+        "MaxOfferedPrice": null,
+        "CurrentPrice": 2695779.0,
+        "StartingPrice": 2695779.0,
+        "EstimatedPrice": 5391558.0,
+        "BidStep": 269577.9,
+        "ShortDescription": "- породична стамбена зграда, објекат бр.1  на КП. Бр. 1610 КО БОР  и  помоћна зграда, објекат бр.2 на КП. Бр. 1610  КО БОР I ",
+        "Description": "- породична стамбена зграда, објекат бр.1  на КП. Бр. 1610 КО БОР I , уписане површине 89 м2, спратности Пр+1  кућни број 34 у улици Пере Радовановића, са уписаном државином извршног дужника, ванкњижна својина,    процењене вредности  5.039.935,00 динара и помоћна зграда \n-  помоћна зграда, објекат бр.2 на КП. Бр. 1610  КО БОР I , уписане површине 33м2, у улици Пере Радовановића,  са уписаном државином извршног дужника, ванкњижна својина  процењене вредности  351.623,00  динара.\nОбјекат бр. 1, породична стамбена зграда и  објекат бр. 2, помоћна зграда,  спојени су и  продају се  заједно.\nУкупна вредност непокретности износи 5.391.558,00 динара .",
+        "VideoLink": "",
+        "Status": "InPrediction",
+        "UserStatusTranslate": null,
+        "IsFirstSale": false,
+        "ExecutorName": "Душан Илић",
+        "PropertyType": "ImmovableProperties",
+        "Images": [
+            {
+                "Id": 0,
+                "Name": "default.png",
+                "ImageType": "data:image/jpg;base64",
+                "Size": 0.0,
+                "IsThumbnail": false,
+                "AuctionId": 0
+            }
+        ],
+        "Tags": [],
+        "Category": {
+            "Id": 7,
+            "Name": "Непокретности"
+        },
+        "Place": {
+            "Id": 1687,
+            "Code": "706418",
+            "Name": "Бор",
+            "ZipCode": "19210",
+            "Municipality": "Бор",
+            "Cadastral": "БОР I",
+            "ParcelNumber": null
+        },
+        "OnWishList": false,
+        "GuaranteeSlip": {
+            "Id": 0,
+            "Name": null,
+            "FileType": null,
+            "Size": 0.0,
+            "AuctionId": 0,
+            "Role": null
+        },
+        "AuctionBidResponseModel": {
+            "IsUserAccountVerified": false,
+            "UserStatus": null,
+            "UserARStatus": null,
+            "UserARVerificationStatus": null,
+            "UserStatusTranslate": null,
+            "UserSecret": null,
+            "AuctionStatus": null,
+            "IsRegisteredOnAuction": false,
+            "IsRejectedAuctionRegistration": false,
+            "IsVerifiedAuctionRegistration": false,
+            "IsAllowedToBid": false,
+            "IsBidWinner": false,
+            "IsVerifiedBid": false,
+            "IsUserAcceptedStartingPrice": false,
+            "NewPrice": 0.0,
+            "NewEndDate": null,
+            "ServerTime": "0001-01-01T00:00:00",
+            "HasVerifiedBids": false,
+            "Bids": [],
+            "IsGuaranteeFree": false,
+            "BidCount": 0,
+            "AcceptingStartingPriceDate": "2024-04-12T07:30:00Z"
+        }
+    }
+}
